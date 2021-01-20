@@ -1,2 +1,2 @@
-# bottom-navigation-bar-android
+# android-bottom-navigation-bar
 Android Bottom Navigation Bar
